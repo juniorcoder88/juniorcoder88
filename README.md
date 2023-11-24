@@ -19,7 +19,7 @@
 
 <a href="https://www.facebook.com/codingforkids88/" target="_blank"><img src="https://img.shields.io/badge/-juniorprogrammeracademy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Our Courses
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -28,6 +28,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
