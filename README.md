@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.facebook.com/codingforkids88/" target="_blank"><img src="https://img.shields.io/badge/-juniorprogrammeracademy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/Amino4coding/" target="_blank"><img src="https://img.shields.io/badge/-juniorprogrammeracademy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Our Courses
 
